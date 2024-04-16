@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "fullname": "میلاد کرامت",
+      "mobile": "09198291742",
+      "email": "miladdiamond83@gmail.com",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 2
+    },
+    {
+      "fullname": "داوود کرامت",
+      "photo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/88d33c1b7e894e9fc24d20fe81998f34342967f5_1710593556.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "mobile": "09198939094",
+      "email": "miladeasy2004@gmail.com",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    }
+  ]
+}
